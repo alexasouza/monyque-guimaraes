@@ -11,7 +11,7 @@
     <div>esportes</div>
 
     <img src="https://oregional.net/wp-content/uploads/2019/10/Volei-e-Futebol-de-Salao-Etapa-Copa-ADR.jpg" width="300" height="300">
-     <iframe width="560" height="315" src="https://www.youtube.com/watch?v=AZl5eWZvCh4" allowfullscreen></iframe>
+     <iframe width="560" height="315" src="<iframe width="560" height="315" src="https://www.youtube.com/embed/pUVjvae-hqo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>" allowfullscreen></iframe>
     <a href="https://www.youtube.com">youtube</a>
 
     <ul>
